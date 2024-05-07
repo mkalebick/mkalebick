@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi! I'm Makenzie Kalebick, but I go by Kenzie.
+
+📚 I am currently finishing my Master's of Science in Data Analytics at UTSA.
+
+📊 I have worked in marketing and advertising for three years, and have always loved everything data-related. I am now learning Python, R, SQL, and Tableau, and I am ready to apply what I have learned to the real world.
+
+📫 How to reach me: Message me on LinkedIn (www.linkedin.com/in/makenziekalebick)
 
 <!--
 **mkalebick/mkalebick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
